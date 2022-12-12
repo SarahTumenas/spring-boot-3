@@ -30,4 +30,6 @@ public record DadosCadastroMedico(
         @NotNull
         @Valid
         DadosEndereco endereco) {
+
+
 }
